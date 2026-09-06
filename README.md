@@ -2,7 +2,7 @@
 
 离线优先的 OC（原创角色）稿件管理器。纯前端**单文件应用**，数据只存在你自己的浏览器里。
 
-不下文件，纯链接版本：https://e97aa1000e9a4acfb501a450ad2527a0.app.workbuddy.link/
+不下文件，纯链接版本：https://3c659e949eac49dabdfc386e7544d370.app.workbuddy.link/
 
 ## ✨ 功能
 
